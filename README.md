@@ -6,7 +6,7 @@
 🎓 Currently studying undergraduate at UFPB in Information Systems </br>
 👨‍💻 System's developer </br>
 🎯 Focusing on Front-End </br>
-👀 But with a eye on the Back-End too </br>
+👀 But a Back-end enthusiastic </br>
 ⚡ Technologies, UI-UX, Design, Science, Psychology, Games and others </br>
 
 ### You can find me on
@@ -19,17 +19,17 @@
 
 ### Extras:
 
-- 🌱 Currently focused on Front-end technologies (ReactJS, NextJS, UI/UX, Typescript, CSS, Sass, Styled Components, Framer Design, Framer Motion, TailwindCSS and Bootstrap)
-- ⚛ My personal website in development, with NextJS </br>
+- 🌱 Currently focused on Front-end technologies and UI/UX Design </br>
+- ⚛ My personal website in development, with NextJS and ReactJS </br>
 
-> <p align="center" text-align='center'>
+> <div align="center" text-align='center'>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
 >
-> ### `const brain += knowledge;`
+> #### `const brain += knowledge;`
 >
-> ### `return power;`
+> #### `return power;`
 >
-> </p>
+> </div>
 
 <p align="center" text-align='center'>
   Go to bed smarter than when you woke up. <br/>
