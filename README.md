@@ -8,6 +8,7 @@
 🎯 Focusing on Front-End </br>
 👀 But a Back-end enthusiastic </br>
 ⚡ Technologies, UI-UX, Design, Science, Psychology, Games and others </br>
+⚛ My personal website was created with NextJS and ReactJS </br>
 
 ### You can find me on
 
@@ -19,8 +20,7 @@
 
 ### Extras:
 
-- 🌱 Currently focused on Front-end technologies and UI/UX Design </br>
-- ⚛ My personal website was created with NextJS and ReactJS </br>
+- 🌱 Currently focused on Front-end technologies and UI/UX Design
 
 > <div align="center" text-align='center'>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
