@@ -20,7 +20,7 @@
 ### Extras:
 
 - 🌱 Currently focused on Front-end technologies and UI/UX Design </br>
-- ⚛ My personal website in development, with NextJS and ReactJS </br>
+- ⚛ My personal website was created with NextJS and ReactJS </br>
 
 > <div align="center" text-align='center'>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
