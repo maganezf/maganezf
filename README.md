@@ -20,7 +20,7 @@
 
 ### Extras:
 
-- 🌱 Currently focused on Front-end technologies and UI/UX Design
+- 🌱 Currently focused on Front-end technologies (NextJS and GatsbyJS) and UI-UX Design
 
 > <div align="center" text-align='center'>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
