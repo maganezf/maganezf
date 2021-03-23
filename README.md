@@ -14,7 +14,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Institutional_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganez.santos@dcx.ufpb.br)](mailto:maganez.santos@dcx.ufpb.br) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Personal_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganezfilho@gmail.com)](mailto:maganezfilho@gmail.com) &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganez-filho-b5813b188/)](https://www.linkedin.com/in/maganez-filho-b5813b188/) &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganezf/)](https://www.linkedin.com/in/maganezf/) &nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maganez_)](https://twitter.com/maganez_) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/maganezf)](https://instagram.com/maganezf)
 
