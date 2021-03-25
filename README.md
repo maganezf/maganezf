@@ -5,8 +5,8 @@
 🌎 Brazilian </br>
 🎓 Currently studying undergraduate at UFPB in Information Systems </br>
 👨‍💻 System's developer </br>
-🎯 Focusing on Front-End </br>
-👀 But a Back-end enthusiastic </br>
+🎯 Focusing in Front-End (Web and Mobile) </br>
+👀 Back-end enthusiastic </br>
 ⚡ Technologies, UI-UX, Design, Science, Psychology, Games and others </br>
 ⚛ My personal website was created with NextJS and ReactJS </br>
 
