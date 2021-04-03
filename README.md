@@ -5,10 +5,10 @@
 🌎 Brazilian </br>
 🎓 Currently studying undergraduate at UFPB in Information Systems </br>
 👨‍💻 System's developer </br>
-🎯 Focusing in Front-End (Web and Mobile) </br>
+🎯 Focusing in Front-End Development (Web and Mobile) </br>
 👀 Back-end enthusiastic </br>
-⚡ Technologies, UI-UX, Design, Science, Psychology, Games and others </br>
-⚛ My personal website was created with NextJS and ReactJS </br>
+⚡ Technologies, UI-UX, Design, Motion Design, Science, Psychology, Games and more... </br>
+⚛ My personal website was created with React.js and Next.js </br>
 
 ### You can find me on
 
@@ -20,7 +20,11 @@
 
 ### Extras:
 
-- 🌱 Currently focused on Front-end technologies (NextJS and GatsbyJS) and UI-UX Design
+- 🌱 Currently focused on:
+
+      - React.js, Next.js, Gatsby.js and React Native
+      - Typescript, CSS, Sass, Styled Components, TailwindCSS and Bootstrap
+      - UI-UX, Design, Animations and Framer Motion
 
 > <div align="center" text-align='center'>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
