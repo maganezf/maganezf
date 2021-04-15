@@ -26,17 +26,13 @@
       - Typescript, CSS, Sass, Styled Components, TailwindCSS and Bootstrap
       - UI-UX, Design, Animations and Framer Motion
 
-<div style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: center; flex-direction: row;>
-
-<div style="display: flex; flex-wrap: wrap; flex: 1;">
-      <img style="border-radius: 6px; margin-right: 8px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-      <img style="border-radius: 6px; margin-right: 8px;" height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
-      <img style="border-radius: 6px; margin-right: 8px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-      <img style="border-radius: 6px; margin-right: 8px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-      <img style="border-radius: 6px; margin-right: 8px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<div style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: space-evenly; flex-direction: row">
+      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
+      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
       <img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-</div>
-
 </div>
 
 </br>
