@@ -4,7 +4,7 @@
 
 🌎 Brazilian </br>
 🎓 Currently studying undergraduate at UFPB in Information Systems </br>
-👨‍💻 System's developer </br>
+👨‍💻 Software developer </br>
 🎯 Focusing in Front-End Development (Web and Mobile) </br>
 👀 Back-end enthusiastic </br>
 ⚡ Technologies, UI-UX, Design, Motion Design, Science, Psychology, Games and more... </br>
@@ -18,7 +18,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maganez_)](https://twitter.com/maganez_) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/maganezf)](https://instagram.com/maganezf)
 
-### Extras:
+### Languages, Technologies & Tools:
 
 - 🌱 Currently focused on:
 
@@ -26,7 +26,25 @@
       - Typescript, CSS, Sass, Styled Components, TailwindCSS and Bootstrap
       - UI-UX, Design, Animations and Framer Motion
 
+<div style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: space-evenly; flex-direction: row;>
+
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+<img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+
+</div>
+
+</br>
+
 > <div align="center" text-align='center'>
+>  <p align="center" text-align='center'>
+>   Go to bed smarter than when you woke up. <br/>
+>   — Charlie Munger
+>  </p>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
 >
 > #### `const brain += knowledge;`
@@ -34,11 +52,6 @@
 > #### `return power;`
 >
 > </div>
-
-<p align="center" text-align='center'>
-  Go to bed smarter than when you woke up. <br/>
-  — Charlie Munger
-</p>
 
 <!-- Here are some ideas to get you started:
 
