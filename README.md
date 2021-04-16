@@ -9,6 +9,8 @@
 👀 Back-end enthusiastic </br>
 ⚡ Technologies, UI-UX, Design, Motion Design, Science, Psychology, Games and more... </br>
 ⚛ My personal website was created with React.js and Next.js </br>
+💬 Ask me about React.js/CSS/Typescript </br>
+🔭 I’m currently working on DathApp and Freelancer
 
 ### You can find me on
 
@@ -17,6 +19,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganezf/)](https://www.linkedin.com/in/maganezf/) &nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maganez_)](https://twitter.com/maganez_) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/maganezf)](https://instagram.com/maganezf)
+
+### Experience:
+
+<p align="center">
+ I have more than 1,5 years of experience in software development.
+</p>
 
 ### Languages, Technologies & Tools:
 
@@ -44,7 +52,7 @@
 >  </p>
 >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
 >
-> #### `const brain += knowledge;`
+> #### `const brain = knowledge;`
 >
 > #### `return power;`
 >
@@ -52,10 +60,8 @@
 
 <!-- Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
