@@ -10,7 +10,7 @@
 ⚡ Technologies, UI-UX, Design, Motion Design, Science, Psychology, Games and more... </br>
 ⚛ My personal website was created with React.js and Next.js </br>
 💬 Ask me about React.js/CSS/Typescript </br>
-🔭 I’m currently working on DathApp and Freelancer
+🔭 I’m currently working at DathApp and TVGC (Freelancer)
 
 ### You can find me on
 
