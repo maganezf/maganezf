@@ -3,19 +3,20 @@
 ### [![GitHub maganezf](https://img.shields.io/github/followers/maganezf?label=follow+me&style=social)](https://github.com/maganezf)
 
 🌎 Brazilian </br>
+👨‍💻 Frontend Software Developer | Passionate about Developing Systems and Applications </br>
+🎯 Focusing in Web and Mobile Development </br>
 🎓 Currently studying undergraduate at UFPB in Information Systems </br>
-👨‍💻 Software developer </br>
-🎯 Focusing in Front-End Development (Web and Mobile) </br>
 👀 Back-end enthusiastic </br>
 ⚡ Technologies, UI-UX, Design, Motion Design, Science, Psychology, Games and more... </br>
 ⚛ My personal website was created with React.js and Next.js </br>
-💬 Ask me about React.js/CSS/Typescript </br>
+💬 Ask me about React.js/Next.js/HTML/CSS/SASS/Typescript </br>
 🔭 I’m currently working at DathApp and TVGC (Freelancer)
 
 ### You can find me on
 
-[![Gmail Badge](https://img.shields.io/badge/-Institutional_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganez.santos@dcx.ufpb.br)](mailto:maganez.santos@dcx.ufpb.br) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Personal_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganezfilho@gmail.com)](mailto:maganezfilho@gmail.com) &nbsp;
+[![My Website Badge](https://img.shields.io/badge/-My_Website-101d42?style=flat-square&logo=react&logoColor=white&link=http://maganezf-me.vercel.app/)](http://maganezf-me.vercel.app/) &nbsp;
+[![Institutional Mail](https://img.shields.io/badge/-Institutional_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganez.santos@dcx.ufpb.br)](mailto:maganez.santos@dcx.ufpb.br) &nbsp;
+[![Personal Mail](https://img.shields.io/badge/-Personal_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganezfilho@gmail.com)](mailto:maganezfilho@gmail.com) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganezf/)](https://www.linkedin.com/in/maganezf/) &nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/maganez_)](https://twitter.com/maganez_) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/maganezf)](https://instagram.com/maganezf)
@@ -23,7 +24,7 @@
 ### Experience:
 
 <p align="center">
- I have more than 1,5 years of experience in software development.
+ I have more than 1,5 years of experience in Frontend Software Development.
 </p>
 
 ### Languages, Technologies & Tools:
