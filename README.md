@@ -51,13 +51,14 @@
 >   Go to bed smarter than when you woke up. <br/>
 >   — Charlie Munger
 >  </p>
->  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='250px'/>
 >
 > #### `const brain = knowledge;`
 >
 > #### `return power;`
 >
 > </div>
+
+<!-- >  <img src='https://media.giphy.com/media/ijxKTF6iE4K4M/giphy.gif' width='200px'/> -->
 
 <!-- Here are some ideas to get you started:
 
