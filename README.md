@@ -12,7 +12,7 @@
 💬 Ask me about React.js/Next.js/HTML/CSS/SASS/Typescript </br>
 🔭 I’m currently working at DathApp and TVGC (Freelancer)
 
-### You can find me on
+### How to reach me:
 
 [![My Website Badge](https://img.shields.io/badge/-My_Website-101d42?style=flat-square&logo=react&logoColor=white&link=http://maganezf-me.vercel.app/)](http://maganezf-me.vercel.app/) &nbsp;
 [![Institutional Mail](https://img.shields.io/badge/-Institutional_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganez.santos@dcx.ufpb.br)](mailto:maganez.santos@dcx.ufpb.br) &nbsp;
@@ -35,15 +35,85 @@
       - UI-UX, Design, Animations and Framer Motion
 
 <div style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: space-evenly; flex-direction: row">
-      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png">
-      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-      <img style="border-radius: 6px;" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-      <img style="border-radius: 6px" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+      <a href="https://reactjs.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://nextjs.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.gatsbyjs.com/" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.w3.org/html/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://sass-lang.com" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://getbootstrap.com" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://tailwindcss.com/" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://reactnative.dev/" target="_blank">
+       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.figma.com/" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://nodejs.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://expressjs.com" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://heroku.com" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.java.com" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.sqlite.org/" target="_blank">
+       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.mongodb.com/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://unity.com/" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" style="border-radius: 6px;" height="60"/>
+      </a>
+      <a href="https://www.linux.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="nodejs" style="border-radius: 6px;" height="60"/>
+      </a>
 </div>
 
 </br>
+
+<div align="center" text-align='center'>
+<p align="center" text-align='center'>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maganezf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="maganezf-github-stats" />
+</p>
+
+<p align="center" text-align='center'>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=maganezf&show_icons=true&locale=en&theme=dracula" alt="maganezf-github-stats" />
+</p>
+<div/>
 
 > <div align="center" text-align='center'>
 >  <p align="center" text-align='center'>
