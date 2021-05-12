@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning/focused on:
 
-      - React.js, Next.js, Gatsby.js, React Native;
+      - React.js, Redux, Next.js, Gatsby.js, React Native;
       - Typescript, CSS, Sass, Styled Components, TailwindCSS, Bootstrap;
       - UI-UX, Design, Animations and Framer Motion.
 
