@@ -59,6 +59,9 @@
       <a href="https://sass-lang.com" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="border-radius: 6px;" height="70"/>
       </a>
+      <a href="https://lesscss.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="less" style="border-radius: 6px;" height="70"/>
+      </a>
       <a href="https://getbootstrap.com" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="border-radius: 6px;" height="70"/>
       </a>
