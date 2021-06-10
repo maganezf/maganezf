@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on GlobalSys, DathApp and TVGC
 - 💬 Ask me about React.js/Next.js/HTML/CSS/SASS/Typescript
+- 📫 How to reach me: maganezfilho@gmail.com
 
 ### How to reach me
 
