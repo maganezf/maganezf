@@ -21,7 +21,7 @@
 ### Experience
 
 <p align="center">
- I have more than 1,5 years of experience in Frontend Software Development.
+ I have more than 1,5 years of experience in Software Development.</br> Currently working as a Frontend Software Developer at Globalsys, DathApp and TVGC
 </p>
 
 ### Languages, Technologies & Tools
