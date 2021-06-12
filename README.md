@@ -4,15 +4,11 @@
 - 💬 Ask me about React.js/Next.js/HTML/CSS/SASS/Typescript
 - 📫 How to reach me: maganezfilho@gmail.com
 
-### How to reach me
+</br>
 
 [![My Website Badge](https://img.shields.io/badge/-My_Website-101d42?style=flat-square&logo=react&logoColor=white&link=http://maganezf-me.vercel.app/)](http://maganezf-me.vercel.app/) &nbsp;
-[![Personal Mail](https://img.shields.io/badge/-Personal_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganezfilho@gmail.com)](mailto:maganezfilho@gmail.com) &nbsp;
-[![Institutional Mail](https://img.shields.io/badge/-Institutional_Mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maganez.santos@dcx.ufpb.br)](mailto:maganez.santos@dcx.ufpb.br) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganezf/)](https://www.linkedin.com/in/maganezf/) &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/maganezf)](https://instagram.com/maganezf)
-
-### [![GitHub maganezf](https://img.shields.io/github/followers/maganezf?label=follow+me&style=social)](https://github.com/maganezf)
+[![GitHub maganezf](https://img.shields.io/github/followers/maganezf?label=follow+me&style=social)](https://github.com/maganezf)
 
 🌎 Brazilian </br>
 👨‍💻 Frontend Software Developer | Passionate about Developing Systems and Applications </br>
