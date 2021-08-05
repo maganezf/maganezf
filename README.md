@@ -21,7 +21,7 @@
 ### Experience
 
 <p align="left">
- I have more than 1,5 years of experience in Software Development. Currently working as a Frontend Software Developer at Globalsys, DathApp and TVGC
+ I have more than 1,5 years of experience in Software Development. </br> Currently working as a Frontend Software Developer at Globalsys, DathApp and TVGC
 </p>
 
 ### Languages, Technologies & Tools
@@ -30,7 +30,7 @@
 
 - React.js, Redux, Next.js, Gatsby.js, React Native, Typescript, CSS, Sass, Styled Components, TailwindCSS, Bootstrap, UI-UX, Design, Animations and Framer Motion.
 
-<div style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: center; flex-direction: row; gap: 5px">
+<div align="center" style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: center; flex-direction: row; gap: 5px">
       <a href="https://reactjs.org/" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" style="border-radius: 6px;" height="40"/>
       </a>
