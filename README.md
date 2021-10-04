@@ -1,6 +1,6 @@
 ### Hello, I'm Maganez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🔭 I’m currently working on Globalsys, DathApp and TVGC
+- 🔭 I’m currently working on FabWork, DathApp and TVGC
 - 💬 Ask me about React.js/Next.js/HTML/CSS/SASS/Typescript
 - 📫 How to reach me: maganezfilho@gmail.com
 
