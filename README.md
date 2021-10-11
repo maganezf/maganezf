@@ -6,29 +6,31 @@
 
 </br>
 
-[![My Website Badge](https://img.shields.io/badge/-My_Website-101d42?style=flat-square&logo=react&logoColor=white&link=http://maganezf-me.vercel.app/)](http://maganezf-me.vercel.app/) &nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganezf/)](https://www.linkedin.com/in/maganezf/) &nbsp;
+[![My Website Badge](https://img.shields.io/badge/-My_Website-101d42?style=flat-square&logo=react&logoColor=white&link=http://maganezf-me.vercel.app/)](http://maganezf-me.vercel.app/)
+&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maganezf/)](https://www.linkedin.com/in/maganezf/)
+&nbsp;
 [![GitHub maganezf](https://img.shields.io/github/followers/maganezf?label=follow+me&style=social)](https://github.com/maganezf)
 
-🌎 Brazilian </br>
-👨‍💻 Frontend Software Developer | Passionate about Developing Systems and Applications </br>
-⚛ My personal website was created with React.js and Next.js </br>
-🎯 Focusing in Web and Mobile Development </br>
-🎓 Currently studying undergraduate at UFPB in Information Systems </br>
-👀 Back-end enthusiastic </br>
-⚡ Technologies, UI-UX, Design, Motion Design, Science, Psychology, Games and more... </br>
+🌎 Brazilian </br> 👨‍💻 Frontend Software Developer | Passionate about Developing
+Systems and Applications </br> ⚛ My personal website was created with React.js
+and Next.js </br> 🎯 Focusing in Web and Mobile Development </br> 🎓 Currently
+studying undergraduate at UFPB in Information Systems </br> 👀 Back-end
+enthusiastic </br> ⚡ Technologies, UI-UX, Design, Motion Design, Science,
+Psychology, Games and more... </br>
 
 ### Experience
 
 <p align="left">
- I have more than 1,5 years of experience in Software Development. </br> Currently working as a Frontend Software Developer at Globalsys, DathApp and TVGC
+ I have more than 1,5 years of experience in Software Development. </br> Currently working as a Frontend Software Developer at FabWork, DathApp and TVGC
 </p>
 
 ### Languages, Technologies & Tools
 
 🌱 I’m currently learning/focused on:
 
-- React.js, Redux, Next.js, Gatsby.js, React Native, Typescript, CSS, Sass, Styled Components, TailwindCSS, Bootstrap, UI-UX, Design, Animations and Framer Motion.
+- Frontend: React.js, Next.js, Gatsby.js, UI-UX, Typescript, CSS, Sass, Styled
+  Components.
 
 <div align="center" style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: center; flex-direction: row; gap: 5px">
       <a href="https://reactjs.org/" target="_blank">
