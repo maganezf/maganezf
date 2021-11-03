@@ -12,29 +12,35 @@
 &nbsp;
 [![GitHub maganezf](https://img.shields.io/github/followers/maganezf?label=follow+me&style=social)](https://github.com/maganezf)
 
-🌎 Brazilian </br> 👨‍💻 Frontend Software Developer | Passionate about Developing
-Systems and Applications </br> ⚛ My personal website was created with React.js
-and Next.js </br> 🎯 Focusing in Web and Mobile Development </br> 🎓 Currently
-studying undergraduate at UFPB in Information Systems </br> 👀 Back-end
-enthusiastic </br> ⚡ Technologies, UI-UX, Design, Motion Design, Science,
-Psychology, Games and more... </br>
+🌎 Brazilian <br/> 👨‍💻 Frontend Software Developer | Passionate about Developing
+Systems and Applications <br/> ⚛ My personal website was created with React.js
+and Next.js <br/> 🎯 Focusing in Web and Mobile Development <br/> 🎓 Currently
+studying undergraduate at UFPB in Information Systems <br/> 👀 Back-end
+enthusiastic <br/> ⚡ Technologies, UI-UX, Design, Motion Design, Science,
+Psychology, Games and more...<br/> 🌱 I’m currently focused on Frontend
+technologies: React.js, Next.js, Gatsby.js, UI-UX, Accessibility Typescript,
+CSS, Sass, Chakra UI, Styled components and Stiches (CSS in JS)
 
 ### Experience
 
 <p align="left">
- I have more than 1,5 years of experience in Software Development. </br> Currently working as a Frontend Software Developer at FabWork, DathApp and TVGC
+ I have around 2 years of experience in Software Development. </br> Currently working as a Frontend Software Developer at FabWork, DathApp and TVGC
 </p>
 
 ### Languages, Technologies & Tools
 
-🌱 I’m currently learning/focused on:
-
-- Frontend: React.js, Next.js, Gatsby.js, UI-UX, Typescript, CSS, Sass, Styled
-  Components.
-
 <div align="center" style="display: flex; flex-wrap: wrap; flex: 1; align-items: center; justify-content: center; flex-direction: row; gap: 5px">
+      <a href="https://www.linux.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="nodejs" style="border-radius: 6px;" height="40"/>
+      </a>
       <a href="https://reactjs.org/" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" style="border-radius: 6px;" height="40"/>
+      </a>
+      <a href="https://reactnative.dev/" target="_blank">
+       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="border-radius: 6px;" height="40"/>
+      </a>
+      <a href="https://reactjs.org/" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reactjs" style="border-radius: 6px;" height="40"/>
       </a>
       <a href="https://nextjs.org/" target="_blank">
        <img src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" alt="nextjs" style="border-radius: 6px;" height="40"/>
@@ -61,13 +67,13 @@ Psychology, Games and more... </br>
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="less" style="border-radius: 6px;" height="40"/>
       </a>
       <a href="https://getbootstrap.com" target="_blank">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="border-radius: 6px;" height="40"/>
-      </a>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" style="border-radius: 6px;" height="40"/>
       <a href="https://tailwindcss.com/" target="_blank">
        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" style="border-radius: 6px;" height="40"/>
       </a>
-      <a href="https://reactnative.dev/" target="_blank">
-       <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" style="border-radius: 6px;" height="40"/>
+      </a>
+      <a href="https://getbootstrap.com" target="_blank">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="border-radius: 6px;" height="40"/>
       </a>
       <a href="https://git-scm.com/" target="_blank">
        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="border-radius: 6px;" height="40"/>
@@ -76,7 +82,7 @@ Psychology, Games and more... </br>
        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" style="border-radius: 6px;" height="40"/>
       </a>
       <a href="https://nodejs.org/" target="_blank">
-       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" style="border-radius: 6px;" height="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" style="border-radius: 6px;" height="40"/>
       </a>
       <a href="https://expressjs.com" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="border-radius: 6px;" height="40"/>
@@ -98,9 +104,6 @@ Psychology, Games and more... </br>
       </a>
       <a href="https://unity.com/" target="_blank">
        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" style="border-radius: 6px;" height="40"/>
-      </a>
-      <a href="https://www.linux.org/" target="_blank">
-       <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="nodejs" style="border-radius: 6px;" height="40"/>
       </a>
 </div>
 
