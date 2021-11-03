@@ -18,8 +18,10 @@ and Next.js <br/> 🎯 Focusing in Web and Mobile Development <br/> 🎓 Current
 studying undergraduate at UFPB in Information Systems <br/> 👀 Back-end
 enthusiastic <br/> ⚡ Technologies, UI-UX, Design, Motion Design, Science,
 Psychology, Games and more...<br/> 🌱 I’m currently focused on Frontend
-technologies: React.js, Next.js, Gatsby.js, UI-UX, Accessibility Typescript,
-CSS, Sass, Chakra UI, Styled components and Stiches (CSS in JS)
+technologies:
+
+- React.js, Next.js, Gatsby.js, UI-UX, Accessibility Typescript, CSS, Sass,
+  Chakra UI, Styled components and Stiches (CSS in JS)
 
 ### Experience
 
