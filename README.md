@@ -1,7 +1,7 @@
 ### Hello, I'm Maganez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 - 🔭 I’m currently working at FabWork, DathApp and TVGC
-- 💬 Ask me about React.js/Next.js/HTML/CSS/SASS/Typescript
+- 💬 Ask me about: HTML/CSS/SASS/Javascript/Typescript/React.js/Next.js/Redux/Redux Saga
 - 📫 How to reach me: maganezfilho@gmail.com
 
 </br>
@@ -17,17 +17,9 @@ Systems and Applications <br/> ⚛ My personal website was created with React.js
 and Next.js <br/> 🎯 Focusing in Web and Mobile Development <br/> 🎓 Currently
 studying undergraduate at UFPB in Information Systems <br/> 👀 Back-end
 enthusiastic <br/> ⚡ Technologies, UI-UX, Design, Motion Design, Science,
-Psychology, Games and more...<br/> 🌱 I’m currently focused on Frontend
-technologies:
+Psychology, Games and more...<br/> <br/> 🌱 I'm currently focused on these technologies:
 
-- React.js, Next.js, Gatsby.js, UI-UX, Accessibility Typescript, CSS, Sass,
-  Chakra UI, Styled components and Stiches (CSS in JS)
-
-### Experience
-
-<p align="left">
- I have around 2 years of experience in Software Development. </br> Currently working as a Frontend Software Developer at FabWork, DathApp and TVGC
-</p>
+- React.js, Redux, Redux Saga, Next.js, Gatsby.js, UI-UX, Accessibility, Javascript, Typescript, CSS, Sass, Styled components and Stiches (CSS in JS), Jest com React Library.
 
 ### Languages, Technologies & Tools
 
