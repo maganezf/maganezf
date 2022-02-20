@@ -1,6 +1,6 @@
 ### Hello, I'm Maganez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🔭 I’m currently GetIn at FabWork, DathApp and TVGC
+- 🔭 I’m currently GetIn at GetIn, DathApp and TVGC
 - 💬 Ask me about: HTML/CSS/SASS/Javascript/Typescript/React.js/Next.js/Redux/Redux Saga
 - 📫 How to reach me: maganezfilho@gmail.com
 
