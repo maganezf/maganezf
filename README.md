@@ -19,7 +19,7 @@ studying undergraduate at UFPB in Information Systems <br/> 👀 Back-end
 enthusiastic <br/> ⚡ Technologies, UI-UX, Design, Motion Design, Science,
 Psychology, Games and more...<br/> <br/> 🌱 I'm currently focused on these technologies:
 
-- React.js, Redux, Redux Saga, Next.js, Gatsby.js, UI-UX, Accessibility, Javascript, Typescript, CSS, Sass, Styled components and Stiches (CSS in JS), Jest com React Library.
+- React.js, Redux, Redux Saga, Next.js, Gatsby.js, UI-UX, Accessibility, Javascript, Typescript, CSS Modules, Sass, Styled components, Stiches (CSS in JS) and Jest com React Library.
 
 ### Languages, Technologies & Tools
 
