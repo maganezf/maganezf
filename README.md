@@ -103,14 +103,6 @@ Psychology, Games and more...<br/> <br/> 🌱 I'm currently focused on these tec
 
 </br>
 
-<div align="center" text-align='center'>
-<p align="center" text-align='center'>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maganezf&show_icons=true&locale=en&layout=compact&theme=dracula" alt="maganezf-github-stats" />
-</p>
-<div/>
-
-</br>
-
 > <div align="center" text-align='center'>
 >  <p align="center" text-align='center'>
 >   Go to bed smarter than when you woke up. <br/>
