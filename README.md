@@ -4,8 +4,7 @@
 - 💬 Ask me about Frontend Development
 - 💟 Passionate about developing systems and applications
 - 👨‍💻 I want to become a Frontend Development specialist
-- 👨‍💻 Around 3 years improving my skills as a programmer and working as a
-  Frontend Software Engineer.
+- 👨‍💻 Around 3 years improving my skills and working as a Frontend Software Engineer.
 - 📫 Reach me at: maganezfilho@gmail.com
 
 </br>
