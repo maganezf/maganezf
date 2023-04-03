@@ -75,6 +75,8 @@ these technologies:
        <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/Stitches.svg" alt="stitches" title='Stitches' style="border-radius: 6px;" height="40"/>
       </a>
       <a href="https://getbootstrap.com" target="_blank">
+       <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" title='Ant Design' style="border-radius: 6px;" height="40"/>
+      <a href="https://getbootstrap.com" target="_blank">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" title='Material UI' style="border-radius: 6px;" height="40"/>
       <a href="https://tailwindcss.com/" target="_blank">
        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" title='Tailwind CSS' style="border-radius: 6px;" height="40"/>
