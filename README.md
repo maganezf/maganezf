@@ -22,9 +22,7 @@ Back-end enthusiastic <br/> ⚡ Technologies, Design (UI-UX), Motion Design,
 Science, Psychology, Games and more...<br/> <br> 👨‍💻 I'm currently focused on
 these technologies:
 
-- React.js, Redux, Redux Saga, Next.js, Gatsby.js, UI-UX, Accessibility,
-  Javascript, Typescript, CSS Modules, Sass, Styled components, Stiches (CSS in
-  JS) and Jest + React Library.
+- React.js, Context API, Redux, Redux Saga, Gatsby.js, Next.js, Turborepo (Monorepo), NPM with libraries for Design system, Storybook, Rollup (Build), tsup (Build), Javascript, Typescript, UI-UX, CSS, CSS Modules, Sass, Less, Styled Components (CSS in JS), Stitches (CSS in JS), Radix UI, Jest + React Testing Library, Git, Github, GitLab, Figma...
 
 <br/>
 
