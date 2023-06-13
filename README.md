@@ -1,6 +1,6 @@
 ### Hi there, I'm Maganez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-- 🔭 I’m currently open to work
+- 🔭 I’m currently working at [Estoca](https://estoca.com.br/)
 - 💬 Ask me about Frontend Development
 - 💟 Passionate about developing systems and applications
 - 👨‍💻 I want to become a Frontend Development specialist
