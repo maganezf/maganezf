@@ -1,10 +1,10 @@
 ### Hi there, I'm Maganez! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
-- 🔭 I’m currently working at [Estoca](https://estoca.com.br/)
+- 🔭 I’m currently working at [Orla]([https://www.orla.tech/)
 - 💬 Ask me about Frontend Development
 - 💟 Passionate about developing systems and applications
 - 👨‍💻 I want to become a Frontend Development Specialist
-- 👨‍💻 Around 4 years improving my skills and working as a Frontend Software Engineer.
+- 👨‍💻 Around 5 years improving my skills and working as a Frontend Software Engineer.
 - 📫 Reach me at: maganezfilho@gmail.com
 
 </br>
