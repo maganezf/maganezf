@@ -17,7 +17,7 @@
 
 🌎 Brazilian <br/> 👨‍💻 Frontend Software Engineer <br/> ⚛ My personal website was
 created with React.js and Next.js <br/> 🎯 Focus in Web and Mobile Development
-<br/> 🎓 Currently pursuing a bachelor's degree in Information Systems <br/> 👀
+<br/> 🎓 Bachelor's degree in Information Systems <br/> 👀
 Back-end enthusiastic <br/> ⚡ Technologies, Design (UI-UX), Motion Design,
 Science, Psychology, Games and more...<br/> <br> 👨‍💻 I'm currently focused on
 these technologies:
